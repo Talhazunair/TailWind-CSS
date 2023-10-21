@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.blur-background
+{
+    backdrop-filter: blur(4px);
+    background-color: transparent;
+}
